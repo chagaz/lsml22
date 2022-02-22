@@ -14,4 +14,17 @@ Work on notebook `3_stochastic_gradient_descent.ipynb`.
 ## Day 4: Deep reinforcement learing
 TBA
 
+## Setup
+To run the notebooks, you will need Jupyter Lab or Notebook, together with a number of Python librairies. 
+
+The easiest way to do this is to install conda and set up an environment specific to this course using the file `package_list.yml`.
+
+To this end, you can either
+* if you prefer graphical user interfaces: (1) [install Anaconda](https://docs.anaconda.com/anaconda/install/index.html) and (2) follow the instructions under "Importing an environment" [of the tutorial](https://docs.anaconda.com/anaconda/navigator/tutorials/manage-environments/) to import the environment in `package_list.yml`;
+* if you prefer the command line: (1) [install conda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html) and (2) use the following instructions in the command line:
+```bash
+   conda env create -f package_list.yml -n lsml
+   conda activate lsml
+```
+
 
