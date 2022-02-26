@@ -12,7 +12,7 @@ TBA
 Work on notebook `3_stochastic_gradient_descent.ipynb`.
 
 ## Day 4: Deep reinforcement learing
-TBA
+Instructions inside `4_deep_reinforcement_learning.pdf`.
 
 ## Setup
 To run the notebooks, you will need Python, [Jupyter](https://jupyter.org/) (either JupyterLab or Jupyter Notebook), and number of Python librairies. The easiest way to install of this is to use [conda](https://docs.conda.io/en/latest/) and set up an environment specific to this course using the file `package_list.yml`. To this end, you can either:
