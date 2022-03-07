@@ -27,4 +27,5 @@ To run the notebooks, you will need Python, [Jupyter](https://jupyter.org/) (eit
    conda activate lsml
 ```
 
-
+## Course materials
+You can find course materials here: https://cloud.mines-paristech.fr/index.php/s/eV67rL3ySnN4JIn 
